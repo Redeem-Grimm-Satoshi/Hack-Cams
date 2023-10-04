@@ -23,6 +23,6 @@ Hack Cameras
 # Hack-Cams
 
 
-<h3> Paypal donations: </h3>
+<h3> Paypal donations: Redeem_Grimm</h3>
 
 * 
