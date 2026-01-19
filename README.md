@@ -1,28 +1,47 @@
-# Cam-Hackers
+# 🔐 Cam‑Security Toolkit  
+### *An Educational Tool for Demonstrating the Importance of Securing IP Cameras*
 
-Hack Cameras Around The Globe.
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Python](https://img.shields.io/badge/python-3.x-blue)
+![License](https://img.shields.io/badge/license-Open-lightgrey)
+![Ethical](https://img.shields.io/badge/ethical-security-orange)
 
-<h3> Mode Of Execution: </h3>
+The **Cam‑Security Toolkit** is a cybersecurity **education and awareness** project.  
+It demonstrates how misconfigured or publicly exposed IP cameras can be discovered online, helping users understand the importance of securing IoT devices.
 
-* apt-get install python3
+This project is designed for:
 
-* apt-get install git
+- Cybersecurity students  
+- Ethical hackers  
+- IT professionals  
+- Anyone learning about IoT security  
 
-* git clone https://github.com/Redeem-Grimm-Satoshi/Hack-Cams
+> ⚠️ **Legal & Ethical Notice**  
+> This toolkit must **only** be used on devices you own or have explicit permission to test.  
+> Unauthorized access to systems or cameras is illegal, unethical, and strictly prohibited.  
+> This project exists to **promote awareness and better security practices**, not exploitation.
 
-* cd Cam-Hackers
+---
 
-* pip install -r requirements.txt
+## 📚 Table of Contents
 
-* python3 cam-hackers.py
+- [Installation](#-installation)  
+- [Usage](#-usage)  
+- [Features](#-features)  
+- [Project Purpose](#-project-purpose)  
+- [Security Awareness](#-security-awareness)  
+- [Screenshots / Demo](#-screenshots--demo)  
+- [Support the Project](#-support-the-project)  
+- [Contributing](#-contributing)  
+- [License](#-license)  
+- [Acknowledgments](#-acknowledgments)
 
-# Hack-Cams
+---
 
+## 📦 Installation
 
+Make sure Python 3 and Git are installed:
 
-# Hack-Cams Globally
-
-
-<h3> Paypal donations: Redeem_Grimm</h3>
-
-* 
+```bash
+sudo apt-get install python3
+sudo apt-get install git
