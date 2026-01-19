@@ -23,7 +23,7 @@ This project is designed for:
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 - [Installation](#-installation)  
 - [Usage](#-usage)  
@@ -38,10 +38,33 @@ This project is designed for:
 
 ---
 
-## 📦 Installation
+## Installation
 
 Make sure Python 3 and Git are installed:
 
 ```bash
 sudo apt-get install python3
 sudo apt-get install git
+ ```
+## Clone Repo
+
+Close this repository neatly
+
+```bash
+git clone https://github.com/Redeem-Grimm-Satoshi/Hack-Cams
+cd Hack-Cams
+```
+
+## Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+## Run Script
+
+Run with admin priviledge 
+
+```bash
+python3 cam-hackers.py
+```
